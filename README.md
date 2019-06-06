@@ -4,7 +4,7 @@ Simple endless low polygon world generator implemented in [Unity](https://unity.
 
 ## Features
 
- - terriain shape based on perlin noise 
+ - terrain shape based on perlin noise 
  - in editor configuration of terrain shape
  - endless area with asynchronous terrain chunks generation
  - dynamic level of detail
